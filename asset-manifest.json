@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Chef_Recipes/static/css/main.e926aea8.css",
+    "main.js": "/Chef_Recipes/static/js/main.c76df3cb.js",
+    "static/media/meal.png": "/Chef_Recipes/static/media/meal.8e9656423d7353f6a4aa.png",
+    "static/media/juniorkodaman.png": "/Chef_Recipes/static/media/juniorkodaman.227a40d9bf9af32b8cdd.png",
+    "static/media/chef.png": "/Chef_Recipes/static/media/chef.a09f3b264b80c8f86047.png",
+    "static/media/default-image.jpg": "/Chef_Recipes/static/media/default-image.d5d4108f6de588c6545d.jpg",
+    "static/media/diet.svg": "/Chef_Recipes/static/media/diet.efbd082aac2ef1bf9dccb0fff6d9e0fe.svg",
+    "static/media/logo.svg": "/Chef_Recipes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Chef_Recipes/index.html",
+    "main.e926aea8.css.map": "/Chef_Recipes/static/css/main.e926aea8.css.map",
+    "main.c76df3cb.js.map": "/Chef_Recipes/static/js/main.c76df3cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e926aea8.css",
+    "static/js/main.c76df3cb.js"
+  ]
+}
