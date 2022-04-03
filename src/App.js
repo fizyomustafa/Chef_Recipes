@@ -21,7 +21,7 @@ function App() {
              <Route path="/github" element={<Github/>}/>
              <Route path="/details"  element={<Details/>}/>
              <Route path="/login"  element={<Login/>}/>
-             <Route path="/turkish"  element={<Turkish/>}/>
+             <Route path="/Chef_Recipes/turkish"  element={<Turkish/>}/>
          </Route>
      </Routes>
  </BrowserRouter>
