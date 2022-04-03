@@ -35,6 +35,7 @@ export const RecipeImage = styled.img`
 
 export const Button = styled.button`
   background-color: #00adb5;
+  color: white;
   padding: 5px;
   outline: none;
   height: 2rem;
