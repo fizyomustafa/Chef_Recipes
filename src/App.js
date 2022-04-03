@@ -20,8 +20,8 @@ function App() {
              <Route path="/about" element={<About/>}/>
              <Route path="/github" element={<Github/>}/>
              <Route path="/details"  element={<Details/>}/>
-             <Route path="/Chef_Recipes/login"  element={<Login/>}/>
-             <Route path="/Chef_Recipes/turkish"  element={<Turkish/>}/>
+             <Route path="/login"  element={<Login/>}/>
+             <Route path="/turkish"  element={<Turkish/>}/>
          </Route>
      </Routes>
  </BrowserRouter>
